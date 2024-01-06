@@ -1,2 +1,2 @@
 # errorprone-idea
-IntelliJ IDEA plugin for Google ErrorProne
+IntelliJ IDEA plugin for [Google ErrorProne](https://errorprone.info/)
